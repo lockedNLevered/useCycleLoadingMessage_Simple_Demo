@@ -1,2 +1,2 @@
-# useCycleLoadingMessage_Simple_Demo
+# useCycleLoadingMessage_Demo
 Created with CodeSandbox
